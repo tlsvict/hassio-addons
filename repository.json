@@ -1,6 +1,6 @@
 {
-  "name": "HA Add-ons by alexbelgium",
+  "name": "Locally customized HA Add-ons by alexbelgium",
   "udev": true,
-  "url": "https://github.com/alexbelgium/hassio-addons",
-  "maintainer": "alexbelgium"
+  "url": "https://github.com/tlsvict/hassio-addons",
+  "maintainer": "myself"
 }
